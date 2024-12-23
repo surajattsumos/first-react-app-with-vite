@@ -1,4 +1,10 @@
-:root {
-  color: rgba(255, 255, 255, 0.87);
-  background-color: #242424;
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background: #27292c;
+  color: white;
+  text-align: center;
+}
+
+h1 {
+  margin-top: 40px;
 }
